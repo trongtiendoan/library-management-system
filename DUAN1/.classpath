@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lb/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lb/activation.jar"/>
+	<classpathentry kind="lib" path="lb/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="lb/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lb/itext-1.4.jar"/>
+	<classpathentry kind="lib" path="lb/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lb/javax.mail.jar"/>
+	<classpathentry kind="lib" path="lb/jcalendar-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lb/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lb/jfreechart-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lb/JTattooDemo.jar"/>
+	<classpathentry kind="lib" path="lb/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lb/mssql-jdbc-6.2.2.jre8.jar"/>
+	<classpathentry kind="lib" path="lb/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lb/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lb/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
